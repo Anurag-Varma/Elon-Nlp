@@ -19,11 +19,11 @@ def sentiment(val):
     elif val<-0.8:
         return "Highly Negative"
 
-api_key = "oUM5fKKQ4FEpKTN6Pl12SaaOY"
-api_key_secret = "3o0KC8YcjgnuGmwMojfUBWfbArGIrzxy8A2EK9DvWH1VSJOW7l"
-access_token = "1523901817343868928-Lwd3WQwDVsqeJpIPt6V5jIMSb8j0kE"
-access_token_secret = "utIp7cMZZojLbp8ND9uj0AkIdZrG3BlFA70srStsMu3LL"
-twitter = Twitter(auth=OAuth2(bearer_token="AAAAAAAAAAAAAAAAAAAAAPu5cQEAAAAAI9PjOt5aBnwXTGdiDxBhB%2BPjmXM%3DI9kR0qImnutowUSuqcJ9lAyKDgghlHr92wdJjjibW9sh93d4sf"))
+api_key = "#"
+api_key_secret = "#"
+access_token = "#"
+access_token_secret = "#"
+twitter = Twitter(auth=OAuth2(bearer_token="#"))
 
 
 Q=['elon','elon musk']
